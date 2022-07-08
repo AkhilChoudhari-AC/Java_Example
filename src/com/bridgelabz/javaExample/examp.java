@@ -1,0 +1,7 @@
+package com.bridgelabz.javaExample;
+
+public class examp {
+    public static void main(String[] args) {
+        System.out.println("java example");
+    }
+}
